@@ -3,7 +3,7 @@
 ![Awesome Equipment Rental Management Banner](./assets/banner.svg)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Equipment-Rental-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Equipment-Rental-Management?style=social" alt="GitHub stars" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Equipment-Rental-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Equipment-Rental-Management?style=social" alt="GitHub_Stars" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## 📌 Top Equipment Rental Management Platforms Ecosystem
@@ -61,9 +61,9 @@ Below is a curated table of leading commercial SaaS platforms for equipment rent
 
 ## 💻 Open-Source GitHub Projects
 
-Explore mature open-source equipment rental platforms, booking engines, and asset tracking repositories. Sorted by GitHub Star Count (descending). 🌟⭐
+Explore mature open-source equipment rental platforms, booking engines, and asset tracking repositories. Sorted by GitHub Stars_Count (descending). 🌟⭐
 
-| Repository 📦 | GitHub Stars 🌟 | Description 📝 | Stack / Tech 🛠️ | License 📄 |
+| Repository 📦 | GitHub_Stars 🌟 | Description 📝 | Stack / Tech 🛠️ | License 📄 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[QloApps](https://github.com/Qloapps/QloApps)** | [<img src="https://img.shields.io/github/stars/Qloapps/QloApps?style=social&color=white" alt="QloApps Stars"/>](https://github.com/Qloapps/QloApps/stargazers) | Open-source customizable reservation and booking management system for rooms, spaces, and equipment assets. | PHP, MySQL | OSL-3.0 |
 | **[Shelf](https://github.com/Shelf-nu/shelf.nu)** | [<img src="https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=social&color=white" alt="Shelf Stars"/>](https://github.com/Shelf-nu/shelf.nu/stargazers) | Open-source asset management infrastructure with QR tag tracking, location history, and equipment maintenance scheduling. | TypeScript, Vue, Node.js | Apache-2.0 |
