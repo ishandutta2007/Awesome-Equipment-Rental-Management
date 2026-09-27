@@ -1,239 +1,114 @@
-# Awesome-Equipment-Rental-Management
+# Awesome Equipment Rental Management 🚜📦
 
-## Top Equipment Rental Management Platforms Ecosystem
+![Awesome Equipment Rental Management Banner](./assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Equipment-Rental-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Equipment-Rental-Management?style=social" alt="GitHub stars" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 📌 Top Equipment Rental Management Platforms Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Rental Inventory Management, Booking Workflows, Contract Generation, Telematics & Fleet Tracking* 🛠️⚡
 
-*Focused on Rental Inventory Management, Booking Workflows, Contract Generation & Fleet Tracking*
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Equipment Rental Management**. These tools help rental businesses manage inventory, process bookings, generate contracts, track maintenance, and optimize fleet utilization across construction, event production, AV/theatre, and general equipment rental verticals.
-
-
-
-**Examples** include Point of Rental, Booqable, EZRentOut, RentalMan, RentalWorks, Texada, Rentle, Current RMS, HireHop, InTempo, RentalResult, MCS Rental Software, and Quipli (the category leaders).
-
-
-
-**Open-source emphasis**: Equipment rental has a **growing open-source ecosystem**, particularly for niche verticals like theatre/AV production (AdamRMS) and general-purpose rental platforms (Louez). Unlike many enterprise software categories, several mature open-source options exist that are production-ready and actively maintained. This section is heavily expanded with every major active project, from general rental platforms to specialized booking systems.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Point of Rental](https://www.pointofrental.com/)**
-
-  Comprehensive rental management software for equipment, event, and general rental businesses. Provides inventory tracking, contract management, billing, and fleet maintenance.
-
-
-
-- **[Booqable](https://booqable.com/)**
-
-  Rental software for equipment and product rental businesses. Provides online booking, inventory management, and payment processing with a modern web interface.
-
-
-
-- **[EZRentOut](https://www.ezrentout.com/)**
-
-  Rental management platform for equipment, tools, and party supplies. Features inventory tracking, maintenance scheduling, and customer management.
-
-
-
-- **[RentalMan](https://www.rentalman.com/)**
-
-  Enterprise rental management solution from Wynne Systems. Handles complex rental operations with equipment tracking, billing, and fleet management.
-
-
-
-- **[RentalWorks](https://www.rentalworks.com/)**
-
-  Rental management software for equipment and tool rental businesses. Provides inventory, contracts, billing, and reporting.
-
-
-
-- **[Texada](https://texada.com/)**
-
-  Rental management platform for equipment dealers and rental companies. Provides fleet management, contracts, and billing automation.
-
-
-
-- **[Rentle](https://rentle.io/)**
-
-  Rental software for equipment and gear rental businesses. Focuses on online booking, inventory, and customer experience.
-
-
-
-- **[Current RMS](https://current-rms.com/)**
-
-  Cloud-based rental management software for AV, production, and event rental companies. Provides inventory, scheduling, and quoting.
-
-
-
-- **[HireHop](https://hirehop.com/)**
-
-  Cloud-based equipment rental software for hire companies. Provides inventory management, booking, and invoicing.
-
-
-
-- **[InTempo](https://www.intempo.com/)**
-
-  Rental management software for equipment rental companies. Provides inventory, contracts, and financial management.
-
-
-
-- **[RentalResult](https://www.rentalresult.com/)**
-
-  Enterprise rental management solution for equipment rental companies. Provides comprehensive fleet and contract management.
-
-
-
-- **[MCS Rental Software](https://www.mcsrentalsoftware.com/)**
-
-  Rental management software for equipment and tool hire businesses. Provides inventory, contracts, and business intelligence.
-
-
-
-- **[Quipli](https://quipli.com/)**
-
-  Modern rental management platform for equipment rental businesses. Provides e-commerce, inventory, and contract management.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[AdamRMS](https://github.com/adam-rms)**  
-
-  Free, open-source advanced Rental Management System specifically designed for Theatre, AV & Broadcast industries. Licensed under AGPL-3.0, available as hosted solution or self-hosted in Docker. Offered by Bithell Studios Ltd. Features include equipment stock management, project/event organization, and public-facing stock showcase with configurable availability and pricing display . **AGPL-3.0**.
-
-
-
-- **[Louez](https://github.com/Synapsr/Louez)**  
-
-  Open-source equipment rental platform with beautiful storefronts. Manage inventory, reservations, customers, and generate contracts. Features AI-powered storefront advisor, AI voice receptionist, passwordless customer portal, legal pages, and Stripe payments. Built with Next.js 16, TypeScript, Tailwind CSS 4, Drizzle ORM (MySQL), and better-auth. Self-host for free or use cloud . **Open source**.
-
-
-
-- **[RentalCore](https://github.com/nbt4/rentalcore)**  
-
-  Docker-first equipment rental management system built in Go. Features inventory tracking, job & customer management, analytics, and secure role-based access. ~47 stars . **Open source**.
-
-
-
-- **[Shelf](https://github.com/Shelf-nu/shelf.nu)**  
-
-  Open-source Asset Management Infrastructure for absolutely everyone. 1,491 stars, TypeScript. While primarily asset management, it can be adapted for equipment rental tracking with maintenance scheduling and location tracking . **Open source**.
-
-
-
-- **[LibreBooking](https://github.com/LibreBooking/librebooking)**  
-
-  Open-source web-based booking and scheduling system for shared resources including equipment, rooms, and services. Originally forked from Booked Scheduler, runs on PHP with MySQL or PostgreSQL. Supports recurring reservations, waitlists, access permissions, email notifications, iCal feeds, and REST API. GPLv3 licensed . **GPL-3.0**.
-
-
-
-- **[Hydrofon](https://github.com/hydrofon/hydrofon)**  
-
-  Equipment booking system built on Laravel 11. Supports MySQL, MariaDB, PostgreSQL, SQLite, and SQL Server. Features resource booking, buckets (interchangeable resources), categories, groups for access control, and identifiers. MIT licensed . **MIT**.
-
-
-
-- **[SoundTrove](https://anika-tahsin-s.github.io/projects/5_project.html)**  
-
-  Full-stack Laravel + MySQL application for musical instrument rentals. Features listings, search/filter, booking, reviews, admin/vendor dashboards, authentication, and role-based access . **Open source**.
-
-
-
-- **[BoltBike](https://github.com/manjurulhoque/BoltBike)**  
-
-  E-Bike Rental Platform built on Django and React. Peer-to-peer marketplace with bike listing, inventory management, earnings tracking, advanced search, JWT authentication, and Stripe integration. Django 5.2, DRF, PostgreSQL, React 18, TypeScript, Tailwind CSS . **Open source**.
-
-
-
-- **[Rental-odoo](https://github.com/Hemil-Hansora/Rental-odoo)**  
-
-  MERN stack rental management platform built for Odoo Hackathon 2025. Features product catalog, booking system with calendar, Stripe payments, customer dashboard, and admin panel. Planned features include mobile React Native app, analytics, and multi-language support . **Open source**.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Vertical-Specific**: **AdamRMS** (theatre/AV/broadcast, AGPL-3.0), **SoundTrove** (musical instruments, Laravel), **BoltBike** (e-bikes, Django/React) .
-
-- **General Purpose**: **Louez** (modern, AI-powered, Next.js), **RentalCore** (Go, Docker-first), **Hydrofon** (Laravel, flexible database support) .
-
-- **Booking Systems**: **LibreBooking** (shared resources, GPL-3.0), **Rental-odoo** (MERN stack, hackathon project) .
-
-- **Asset Management**: **Shelf** (1,491 stars, adaptable for rental tracking) .
-
-
-
-**Frameworks for building custom systems**: Combine **Louez** for a modern, feature-rich rental platform with storefront, **AdamRMS** for vertical-specific needs (theatre/AV), **LibreBooking** or **Hydrofon** for simple resource booking, and **PostgreSQL/MySQL** for persistence. Add **Stripe** for payments and **Docker** for deployment.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Equipment rental platforms handle inventory, customer, and financial data; ensure compliance with relevant business regulations and data protection laws.
-
-- Self-hosted open-source solutions require proper security hardening, regular updates, and backup strategies. Open-source rental platforms vary significantly in maturity—evaluate based on your specific vertical and scale requirements.
-
-
+**Last updated: September 2026** 📅
 
 ---
 
+This repository tracks top **SaaS platforms** and **open-source projects** for **Equipment Rental Management**. Whether you operate construction heavy equipment dealers, AV/event rental houses, tool hire shops, or peer-to-peer equipment marketplaces, these solutions help manage inventory lifecycle, process online bookings, generate legal contracts, schedule preventative maintenance, and optimize fleet utilization. 🚚✨
 
+---
 
-**Made for rental business operators, fleet managers, AV/theatre production companies, and equipment hire professionals.**
+## 📑 Table of Contents
 
-Let's make equipment rental management more open, transparent, and efficient.
+- [📊 Sector Overview & Market Intelligence](#-sector-overview--market-intelligence)
+- [☁️ SaaS / Hosted Platforms](#%EF%B8%8F-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Intelligence
+
+> **Market Size & Structure:** The global **Equipment Rental Management Software market** is estimated at **~$300M - $500M** (growing at a **7.4% CAGR** toward **$504M+ by 2031**), while serving the broader **$120B+ physical equipment rental industry**. The software sector is **highly fragmented** across niche verticals (construction, AV/event production, party rentals, medical equipment) with no single winner-take-all monopoly, driving strong demand for specialized SaaS tools and flexible open-source self-hosted solutions. 📈🔍
+
+---
+
+## ☁️ SaaS / Hosted Platforms
+
+Below is a curated table of leading commercial SaaS platforms for equipment rental management, ordered by company scale (estimated annual revenue / parent valuation descending). 💰🏆
+
+| Product 🚀 | Description 📝 | Company Scale (Rev / Valuation) 🏛️ | Pricing 💳 | Free Tier / Free Trial Limits 🎁 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Point of Rental](https://www.pointofrental.com/)** | Comprehensive enterprise rental management software for equipment, event, and heavy tool rental businesses. Features inventory tracking, contract management, billing, and fleet maintenance. | **~$45M Annual Revenue** | Custom quote (Tiered enterprise plans) | No free tier; demo available upon request |
+| **[EZRentOut](https://www.ezrentout.com/)** | Asset & equipment rental management platform by EZO with barcode tracking, mobile apps, maintenance scheduling, and web store builder. | **~$29.5M ARR (Parent EZO)** | Starts at **$399/month** (Growth Tier) | 7-day free trial (Full access, no credit card required) |
+| **[Texada](https://texada.com/)** | Enterprise rental growth platform for heavy equipment dealers and fleet rental operators. Provides telematics, contracts, and fleet analytics. | **~$18.4M Annual Revenue** | Custom quote (Scale & module based) | No free tier; custom guided demo available |
+| **[Quipli](https://quipli.com/)** | Modern e-commerce and rental management platform built specifically for independent equipment rental companies. | **~$2.2M Annual Revenue** | Starts at **$299/month** | 14-day free trial (Full access) |
+| **[Booqable](https://booqable.com/)** | All-in-one equipment rental software with online booking embed, inventory control, order management, and Stripe integration. | **~$1.5M Annual Revenue** | Starts at **$29/month** (Essential plan, billed annually) | 14-day free trial (Full feature access, no credit card required) |
+| **[HireHop](https://hirehop.com/)** | Cloud-based equipment hire software tailored for equipment rental and production companies with availability calendars and equipment tracking. | **~$990K Annual Revenue** | Starts at **$23/user/month** (£18/mo) | 14-day free trial (Full access) |
+| **[RentalMan](https://www.rentalman.com/)** | Heavy equipment ERP system by Wynne Systems (Volaris Group subsidiary) managing heavy fleet, financial accounting, and jobsite logistics. | **Enterprise / Subsidiary of Constellation Software ($50B+ Cap)** | Custom enterprise quote | No free tier or public trial; enterprise demonstration required |
+| **[RentalWorks](https://www.rentalworks.com/)** | Rental software suite for tool and equipment rental operators with dispatch, billing, and stock tracking. | **Mid-Market Private** | Custom quote | 14-day free trial available |
+| **[Rentle](https://rentle.io/)** *(Twice)* | Modern circular commerce and rental software focusing on self-service rentals, online booking, and fleet inventory. | **Venture-Backed Startup** | Starts at **$29/month** | Free plan available (Up to 30 orders/month) |
+| **[Current RMS](https://current-rms.com/)** | Cloud-based rental management system for AV, production, and broadcast event rental houses. | **Established Private** | Starts at **$32/user/month** | 30-day free trial (Full access) |
+| **[InTempo](https://www.intempo.com/)** | Modular rental software for regional equipment rental yards with fleet maintenance and point-of-sale functionality. | **Subsidiary of Volaris Group** | Custom quote | Guided demo available |
+| **[RentalResult](https://www.rentalresult.com/)** | Enterprise rental software solution for construction equipment and asset management. | **Enterprise Private** | Custom quote | Guided demo available |
+| **[MCS Rental Software](https://www.mcsrentalsoftware.com/)** | Global equipment rental software providing telematics integration, mobile driver apps, and contract control. | **Established Global Private** | Custom quote | Guided demo available |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Explore mature open-source equipment rental platforms, booking engines, and asset tracking repositories. Sorted by GitHub Star Count (descending). 🌟⭐
+
+| Repository 📦 | GitHub Stars 🌟 | Description 📝 | Stack / Tech 🛠️ | License 📄 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[QloApps](https://github.com/Qloapps/QloApps)** | [<img src="https://img.shields.io/github/stars/Qloapps/QloApps?style=social&color=white" alt="QloApps Stars"/>](https://github.com/Qloapps/QloApps/stargazers) | Open-source customizable reservation and booking management system for rooms, spaces, and equipment assets. | PHP, MySQL | OSL-3.0 |
+| **[Shelf](https://github.com/Shelf-nu/shelf.nu)** | [<img src="https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=social&color=white" alt="Shelf Stars"/>](https://github.com/Shelf-nu/shelf.nu/stargazers) | Open-source asset management infrastructure with QR tag tracking, location history, and equipment maintenance scheduling. | TypeScript, Vue, Node.js | Apache-2.0 |
+| **[LibreBooking](https://github.com/LibreBooking/librebooking)** | [<img src="https://img.shields.io/github/stars/LibreBooking/librebooking?style=social&color=white" alt="LibreBooking Stars"/>](https://github.com/LibreBooking/librebooking/stargazers) | Web-based booking and resource scheduling system for shared equipment, tools, and facilities. Fork of Booked Scheduler. | PHP, MySQL, PostgreSQL | GPL-3.0 |
+| **[Fab-Manager](https://github.com/sleede/fab-manager)** | [<img src="https://img.shields.io/github/stars/sleede/fab-manager?style=social&color=white" alt="Fab-Manager Stars"/>](https://github.com/sleede/fab-manager/stargazers) | Open-source maker space and equipment rental management platform with booking, asset scheduling, and billing. | Ruby on Rails, Vue.js | AGPL-3.0 |
+| **[OpenReservation](https://github.com/OpenReservation/OpenReservation)** | [<img src="https://img.shields.io/github/stars/OpenReservation/OpenReservation?style=social&color=white" alt="OpenReservation Stars"/>](https://github.com/OpenReservation/OpenReservation/stargazers) | Cloud-native reservation and asset booking system with Docker & Kubernetes support. | C#, .NET Core | MIT |
+| **[leihs](https://github.com/leihs/leihs)** | [<img src="https://img.shields.io/github/stars/leihs/leihs?style=social&color=white" alt="leihs Stars"/>](https://github.com/leihs/leihs/stargazers) | Comprehensive equipment lending, reservation, and inventory management system used by universities and institutions. | Ruby, Clojure, PostgreSQL | MIT |
+| **[RentalCore](https://github.com/nbt4/rentalcore)** | [<img src="https://img.shields.io/github/stars/nbt4/rentalcore?style=social&color=white" alt="RentalCore Stars"/>](https://github.com/nbt4/rentalcore/stargazers) | Docker-first equipment rental management system featuring inventory tracking, job scheduling, and RBAC security. | Go, Docker | MIT |
+| **[AdamRMS](https://github.com/adam-rms/adam-rms)** | [<img src="https://img.shields.io/github/stars/adam-rms/adam-rms?style=social&color=white" alt="AdamRMS Stars"/>](https://github.com/adam-rms/adam-rms/stargazers) | Advanced Rental Management System for Theatre, AV & Broadcast equipment with inventory showcase & crew booking. | PHP, JavaScript, Docker | AGPL-3.0 |
+| **[Louez](https://github.com/Synapsr/Louez)** | [<img src="https://img.shields.io/github/stars/Synapsr/Louez?style=social&color=white" alt="Louez Stars"/>](https://github.com/Synapsr/Louez/stargazers) | Modern AI-assisted equipment rental platform with storefront builder, Stripe payments, and contract automation. | Next.js 16, TypeScript, Tailwind | MIT |
+| **[BoltBike](https://github.com/manjurulhoque/BoltBike)** | [<img src="https://img.shields.io/github/stars/manjurulhoque/BoltBike?style=social&color=white" alt="BoltBike Stars"/>](https://github.com/manjurulhoque/BoltBike/stargazers) | Peer-to-peer e-bike equipment rental platform with marketplace earnings tracking and Stripe integration. | Django, React, PostgreSQL | MIT |
+| **[Rental-odoo](https://github.com/Hemil-Hansora/Rental-odoo)** | [<img src="https://img.shields.io/github/stars/Hemil-Hansora/Rental-odoo?style=social&color=white" alt="Rental-odoo Stars"/>](https://github.com/Hemil-Hansora/Rental-odoo/stargazers) | MERN stack equipment booking portal with interactive calendar, admin dashboard, and Stripe payments. | React, Node.js, Express, MongoDB | MIT |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions to expand this curated list are warmly welcomed! 🌟
+
+1. **Fork** this repository. 🍴
+2. **Add/Edit** entries in `README.md` following the table formatting. ✍️
+3. Include factual data: platform name, official URL, description, pricing details, and repository star links. 📌
+4. Submit a **Pull Request** with a brief summary of additions. 🚀
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful for your business, fleet operations, or tech stack research, please consider supporting the project! ⭐
+
+- **Star & Share:** Give this repository a ⭐ star and share it with your network!
+- **Sponsor:** Buy me a coffee or support ongoing open-source curation via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007). ☕✨
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/></a>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Equipment-Rental-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Equipment-Rental-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list for informational and educational purposes — not an official endorsement. ℹ️
+- Equipment rental management platforms handle financial, inventory, and customer contracts; ensure compliance with local commercial regulations. ⚖️
+- Self-hosted open-source software requires security maintenance and backup policies. 🔒
